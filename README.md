@@ -29,8 +29,8 @@
 ### Клонирование репозитория
 
 ```bash
-git clone https://github.com/Golden-Gekko/workshop_1.git
-cd workshop_1
+git clone https://github.com/kshemyakin-blip/practice_1.git
+cd practice_1
 ```
 
 ### Настройка виртуального окружения Python
